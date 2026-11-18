@@ -9,7 +9,7 @@
 		<relativePath/>
 	</parent>
 
-	<groupId>com.example</groupId>
+	<groupId>com.blog</groupId>
 	<artifactId>spring-webflux-lab</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-webflux-lab</name>

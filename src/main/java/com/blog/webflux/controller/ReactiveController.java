@@ -2,7 +2,7 @@ package com.blog.webflux.controller;
 
 import java.util.Map;
 
-import com.blog.webflux.mode.Booking;
+import com.blog.webflux.model.Booking;
 import com.blog.webflux.service.ReactiveService;
 import org.springframework.http.MediaType;
 import org.springframework.http.codec.ServerSentEvent;

@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.concurrent.TimeoutException;
 import java.util.function.Consumer;
 
-import com.blog.webflux.mode.Booking;
+import com.blog.webflux.model.Booking;
 import org.reactivestreams.Subscription;
 import org.springframework.stereotype.Service;
 

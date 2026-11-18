@@ -1,4 +1,4 @@
-package com.example.webflux;
+package com.blog.webflux;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -13,6 +13,8 @@ import java.util.concurrent.atomic.AtomicReference;
 
 import org.junit.jupiter.api.Test;
 import org.reactivestreams.Subscription;
+
+import com.blog.webflux.service.ReactiveService;
 
 import reactor.core.publisher.BaseSubscriber;
 import reactor.test.StepVerifier;
